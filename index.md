@@ -4,3 +4,7 @@ This was a very interesting course. Knowing how to create a new repository, merg
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
