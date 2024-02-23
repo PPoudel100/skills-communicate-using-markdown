@@ -8,3 +8,7 @@ This was a very interesting course. Knowing how to create a new repository, merg
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
